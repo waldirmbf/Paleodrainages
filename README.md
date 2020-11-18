@@ -92,4 +92,4 @@ grid_code <> 1 AND grid_code <> 2  AND grid_code <> 3
 
 __2.2.8) Basins__:  Also optional, but its used to delimiate river basins based on the flow direction raster.
 
->  Play with the basin and streams symbology and the streams to highlight the rivers or paleodrainages of interest.
+>  Play with the basin and streams symbology to highlight the rivers or paleodrainages of interest.
