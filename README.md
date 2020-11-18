@@ -60,7 +60,7 @@ __2.1.9) Extract by masking:__ Now, we defined polygon containining the contour 
 
 ### 2.2) Hydrology tools
 
-__2.2.1) Fill:__This tool is used to flood the area  to identify the steepness and depth of every cell.
+__2.2.1) Fill:__ This tool is used to flood the area  to identify the steepness and depth of every cell.
 
 > (use Crtl +'F') and look for 'Fill'. Input raster will be the file created in __step 2.1.9.__ P.S.: Not much will happen in the screen during this step, however a new file will be created.
 
